@@ -1,1 +1,1 @@
-# Nave-vectorial-y-proyectiles-2D
+# Nave vectorial y proyectiles 2D
